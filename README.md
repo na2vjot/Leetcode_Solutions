@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/na2vjot/Leetcode_Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/na2vjot/Leetcode_Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/na2vjot/Leetcode_Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0607-sales-person](https://github.com/na2vjot/Leetcode_Solutions/tree/main/0607-sales-person/) | Easy |
 | [1179-reformat-department-table](https://github.com/na2vjot/Leetcode_Solutions/tree/main/1179-reformat-department-table/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/na2vjot/Leetcode_Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
